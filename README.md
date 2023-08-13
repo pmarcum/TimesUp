@@ -15,5 +15,9 @@ Of course, this tool can be used for anything -- not just a proposal review meet
 -------------------------------------------------------------
 UPDATES:
 -------------------------------------------------------------
-Aug 12, 2023: Completely re-wrote the entire spreadsheet to allow a time duration to be specified, rather than the clock time, to designate how long
-the count-down should be.  Also added a "pause" feature.  Now, you enter the number of minutes (or hours) that you want to be count-down, and click the "start" checkbox to initiate the countdown.  If you want to pause the clock, check the "pause" checkbox (leaving the "start" checkbox still checked).  When you want the clock to continue, check the "pause" box to uncheck it.  If you want to start all over again, to refresh the clock, you just toggle the "start" box (e.g., unselect it, then select it again). 
+Aug 12, 2023:
+Completely re-wrote the entire spreadsheet:
+- changed the input interface to allow a time duration to be specified, rather than the clock time, for designating how long
+the count-down should be.
+- added a "pause" feature.
+- To use, enter the number of minutes (or hours) that you want to be count-down, and click the "start" checkbox to initiate the countdown.  If you want to pause the clock, check the "pause" checkbox (leaving the "start" checkbox still checked).  When you want the clock to continue, check the "pause" box to uncheck it.  If you want to start all over again, to refresh the clock, you just toggle the "start" box (e.g., unselect it, then select it again). 
